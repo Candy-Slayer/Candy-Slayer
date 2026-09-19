@@ -1,11 +1,11 @@
 ### Hi, I'm Mohamed
 
 AI/ML engineer focused on NLP, AI agents.
-Currently expanding into computer vision.
+Currently expanding into agentic systems.
 
-- Currently building | FaceSwitch, real-time face transformer using hand gesture
-- Background | 4th year CS student, self-directed focus on NLP/LLMs
-- Stack | Python, scikit-learn, PyTorch, LangChain
+- Currently building | AVIRA: multi-dialect Arabic voice AI with emotion-aware, cost-effective routing
+- Background | 4th year CS student with focus on NLP/LLMs
+- Stack | Python, scikit-learn, PyTorch, LangChain, LangGraph
 - Linkedin | https://www.linkedin.com/in/mohamed-elfeky123
 ---
 **Selected Projects**
